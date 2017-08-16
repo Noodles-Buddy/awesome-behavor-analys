@@ -42,7 +42,7 @@
     //通过Image对象请求后端脚本
     var img = new Image(1, 1);
     //var src = 'http://localhost:8091/data/dataCollection/log.gif?args=' + encodeURIComponent(args);
-    var src = 'http://192.168.21.44:8080/data/dataCollection/log.gif?args=' + encodeURIComponent(args);
+    var src = 'http://192.168.**.&*%:8080/data/dataCollection/log.gif?args=' + encodeURIComponent(args);
     img.src = src;
     
 })();
