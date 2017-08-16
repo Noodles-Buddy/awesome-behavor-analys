@@ -1,0 +1,42 @@
+<html>
+	<head>
+	    <meta charset="utf-8"/>
+	    <title></title>
+	    <!-- 引入jquery以及jquery.cookie库 -->
+		<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+		<script type="text/javascript" src="js/jquery.cookie.js"></script>
+		<script type="text/javascript" src="js/tongji.js"></script>
+		<script type="text/javascript" src="js/ma.js"></script>
+	</head>
+	
+	<body>
+		<a href="page1.html">page1</a>
+		测试埋点,刷新本页面即可收集数据。
+        <p id="tj" style="border: 2px solid fuchsia;">
+            
+	  </p>
+	</body>
+	
+	
+</html>
+
+
+
+
+
+
+
+
+<!-- <script>
+	 var _maq = _maq || [];
+    _maq.push(['_setAccount', 'vincent']);
+    (function () {
+	    alert("测试js脚本切入点");
+        var ma = document.createElement('script');
+        ma.type = 'text/javascript';
+        ma.async = true;
+        ma.src = "http://localhost:8091/data/js/ma.js";
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ma, s);
+    })(); 
+	</script> -->

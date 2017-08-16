@@ -1,0 +1,15 @@
+1.研究资料在SVN：svn://192.168.22.137/itoo_java/Dubbo+Zk+Spring Frame/ITOO_DOC/trunk/分布式追踪平台（用户行为分析平台）
+（已同步到resource文件夹）
+
+2.收集的好文章资料：
+http://blog.csdn.net/hxyascx/article/details/53374028（3篇系列）
+http://www.ithao123.cn/content-1820695.html
+http://blog.csdn.net/z69183787/article/details/53406245
+http://blog.csdn.net/vshuang/article/details/60361314
+http://wangqiaowqo.iteye.com/blog/2084080
+http://blog.csdn.net/zyt425916200/article/details/54392047
+http://blog.csdn.net/zyt425916200/article/details/54380765
+http://blog.csdn.net/uyunopss/article/details/53283066
+http://xue.zbj.com/article/92
+http://a.shujike.com/user（数极客）
+谷歌分析
