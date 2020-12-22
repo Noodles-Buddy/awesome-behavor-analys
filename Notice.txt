@@ -1,8 +1,8 @@
-1.ÑĞ¾¿×ÊÁÏÔÚSVN£ºsvn://192.168.22.137/itoo_java/Dubbo+Zk+Spring Frame/ITOO_DOC/trunk/·Ö²¼Ê½×·×ÙÆ½Ì¨£¨ÓÃ»§ĞĞÎª·ÖÎöÆ½Ì¨£©
-£¨ÒÑÍ¬²½µ½resourceÎÄ¼ş¼Ğ£©
+1.ç ”ç©¶èµ„æ–™åœ¨SVNï¼šsvn://********/Dubbo+Zk+Spring Frame/ITOO_DOC/trunk/åˆ†å¸ƒå¼è¿½è¸ªå¹³å°ï¼ˆç”¨æˆ·è¡Œä¸ºåˆ†æå¹³å°ï¼‰
+ï¼ˆå·²åŒæ­¥åˆ°resourceæ–‡ä»¶å¤¹ï¼‰
 
-2.ÊÕ¼¯µÄºÃÎÄÕÂ×ÊÁÏ£º
-http://blog.csdn.net/hxyascx/article/details/53374028£¨3ÆªÏµÁĞ£©
+2.æ”¶é›†çš„å¥½æ–‡ç« èµ„æ–™ï¼š
+http://blog.csdn.net/hxyascx/article/details/53374028ï¼ˆ3ç¯‡ç³»åˆ—ï¼‰
 http://www.ithao123.cn/content-1820695.html
 http://blog.csdn.net/z69183787/article/details/53406245
 http://blog.csdn.net/vshuang/article/details/60361314
@@ -11,5 +11,5 @@ http://blog.csdn.net/zyt425916200/article/details/54392047
 http://blog.csdn.net/zyt425916200/article/details/54380765
 http://blog.csdn.net/uyunopss/article/details/53283066
 http://xue.zbj.com/article/92
-http://a.shujike.com/user£¨Êı¼«¿Í£©
-¹È¸è·ÖÎö
+http://a.shujike.com/userï¼ˆæ•°æå®¢ï¼‰
+è°·æ­Œåˆ†æ
